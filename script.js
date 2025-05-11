@@ -1,7 +1,7 @@
 
-save the following block of code and remane it as "script.js"
+//save the following block of code and remane it as "script.js"
 
----------------------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------------------
 function submitForm() {
     event.preventDefault();
 
