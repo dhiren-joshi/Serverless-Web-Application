@@ -1,7 +1,4 @@
-🗺️ <strong>System Architecture — How All the AWS Services Talk to Each Other</strong><br>
-<a href="serverless-images/serverless.drawio.png">
-  <img src="serverless-images/serverless.drawio.png" alt="System Architecture" width="600">
-</a>
+
 
 
 Table Name: registration-table
