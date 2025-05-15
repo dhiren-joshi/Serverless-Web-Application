@@ -1,6 +1,14 @@
 # 🚀 Serverless User Registration App  
 *A fully serverless project built on AWS — no EC2s, no servers.*
 
+---
+
+[![Serverless](https://img.shields.io/badge/Built%20With-AWS%20Lambda-orange?logo=aws-lambda)](https://aws.amazon.com/lambda/)  
+[![Frontend Hosted on S3](https://img.shields.io/badge/Frontend-S3%20%2B%20CloudFront-blue?logo=amazon-s3)](https://aws.amazon.com/s3/)  
+[![Data Stored in DynamoDB](https://img.shields.io/badge/Database-DynamoDB-ff69b4?logo=amazon-dynamodb)](https://aws.amazon.com/dynamodb/)  
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
 
 ## 📦 What’s Inside?
 
@@ -48,8 +56,11 @@ A simple yet powerful **User Registration Web App** built using AWS services.
 
 ## 📁 File Structure
 ├── index.html # The form UI
+
 ├── style.css # Styles (minimal & clean)
+
 ├── script.js # Handles form submission
+
 ├── lambda_function.py # Our backend logic in Python
 
 
@@ -95,6 +106,7 @@ Open an issue, submit a PR, or tag me on [LinkedIn](https://www.linkedin.com/in/
 
 Let’s build cool stuff without managing servers 🚀
 
+---
 
 Details required on AWS for project -
 
