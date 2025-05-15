@@ -1,14 +1,6 @@
 # 🚀 Serverless User Registration App  
 *A fully serverless project built on AWS — no EC2s, no servers.*
 
----
-
-[![Serverless](https://img.shields.io/badge/Built%20With-AWS%20Lambda-orange?logo=aws-lambda)](https://aws.amazon.com/lambda/)  
-[![Frontend Hosted on S3](https://img.shields.io/badge/Frontend-S3%20%2B%20CloudFront-blue?logo=amazon-s3)](https://aws.amazon.com/s3/)  
-[![Data Stored in DynamoDB](https://img.shields.io/badge/Database-DynamoDB-ff69b4?logo=amazon-dynamodb)](https://aws.amazon.com/dynamodb/)  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
----
 
 ## 📦 What’s Inside?
 
