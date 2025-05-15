@@ -1,4 +1,4 @@
-# 🚀 Serverless User Registration App  
+# 🚀 Serverless Web App  
 *A fully serverless project built on AWS — no EC2s, no servers.*
 
 ---
@@ -32,15 +32,15 @@ A simple yet powerful **User Registration Web App** built using AWS services.
 
 ## 🛠️ Tech Stack (aka AWS Bingo Card)
 
-| Tool            | Role in Project                         |
-|------------------|------------------------------------------|
+| Tool            | Role in Project                          |
+|-----------------|------------------------------------------|
 | HTML/CSS/JS     | Frontend (the face of the app)           |
 | S3              | Hosts and serves the frontend            |
 | CloudFront      | Distributes the frontend worldwide       |
 | API Gateway     | Public API endpoint                      |
 | Lambda          | Handles backend logic                    |
 | DynamoDB        | NoSQL DB to store user data              |
-| IAM             | Permissions & security (the bouncer)     |
+| IAM             | Permissions & security                   |
 
 ---
 
@@ -98,7 +98,7 @@ I wrote a detailed (and funny) blog post explaining every step — no jargon, ju
 
 ## 📣 Got Feedback?
 
-Open an issue, submit a PR, or tag me on [LinkedIn](https://www.linkedin.com/in/dhiren-joshi/) if you’ve got ideas or want to chat cloud ☁️
+Open an issue, submit a PR, or tag me on [LinkedIn](https://www.linkedin.com/in/dhiren-joshi-79500518a/) if you’ve got ideas or want to chat cloud ☁️
 
 ---
 
