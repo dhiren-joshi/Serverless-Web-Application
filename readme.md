@@ -74,7 +74,7 @@ I wrote a detailed (and funny) blog post explaining every step — no jargon, ju
 
 ---
 
-## 🚀 Deploy It Yourself (Mini Guide)
+## 🚀 Deploy It Yourself
 
 > Follow the full steps in the blog above ☝️, but here’s the bird’s-eye version:
 
