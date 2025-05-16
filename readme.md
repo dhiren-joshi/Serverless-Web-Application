@@ -111,6 +111,7 @@ Let’s build cool stuff without managing servers 🚀
 Details required on AWS for project -
 
 Table Name: registration-table
+
 Partition key: email
 
 IAM Role Name: RegistrationFormRole
