@@ -121,4 +121,5 @@ Permissions:
 2. DynamoDB Full Access
 
 Function Name: registration-form-function
+
 Runtime: Python 3.9
